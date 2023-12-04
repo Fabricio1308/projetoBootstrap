@@ -1,0 +1,32 @@
+body{
+    background-image: linear-gradient(to right, #000000 , #000566);
+}
+
+h1{
+    background-color: #00000081;
+    padding: 1%;
+    border-radius: 50px;
+    color: white;
+   font-size: 4em;
+}
+
+.card-text-2{
+    background-color: #0000009e;
+    border-radius: 15px;
+}
+
+.card-title{
+    font-size: 3em;
+}
+
+nav{
+    background-color: rgb(190, 186, 186);
+}
+
+.align-center{
+    display: flex;
+    flex-direction: column;
+    margin-left: 7rem;
+    
+}
+
